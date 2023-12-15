@@ -1,2 +1,2 @@
 # aplicacao-web-go-alura
-Irei desenvolver uma apilcação web simples em Golang
+## Apilcação web simples em Golang que retorna uma pagina web, o index.html
